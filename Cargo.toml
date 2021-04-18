@@ -11,6 +11,7 @@ edition = "2018"
 # The `leonardo-panic` example shows a more elaborate version.
 nb = "0.1.2"
 panic-halt = "0.2.0"
+ufmt = "0.1.0"
 
 [dependencies.arduino-uno]
 git = "https://github.com/rahix/avr-hal"
